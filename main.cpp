@@ -15,6 +15,7 @@ int main() {
         num_1=num_0;
         num_0=num_2;
     }
-   return0
-   }
+
+    return 0;
+}
 
